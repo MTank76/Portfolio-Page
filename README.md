@@ -42,3 +42,13 @@ To view the portfolio website:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open issues for suggestions or submit pull requests with proposed enhancements.
+
+## Screenshots
+
+![Portfolio Page 1](https://github.com/MTank76/oibsip_taskno.2/assets/90818234/1766693e-32c7-4247-9542-a94b7d97bbc8)!
+[Portfolio Page 2](https://github.com/MTank76/oibsip_taskno.2/assets/90818234/a1fc3cbb-09ed-4e52-9ff7-87870e8cc963)
+![Portfolio Page 3](https://github.com/MTank76/oibsip_taskno.2/assets/90818234/e17f2e92-3b40-49dd-b5aa-e9e79e968c37)
+![Portfolio Page 4](https://github.com/MTank76/oibsip_taskno.2/assets/90818234/76f92663-1101-4916-956c-a96bd99609bf)
+
+
+
